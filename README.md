@@ -4,7 +4,7 @@ This package is software suite to control a RGB LED over internet with Cpp progr
 
 Folders :
 	- particle_build	: The code for the Particle device.
-	- cpp_Controleur	: An example of light color sequences coded in C language for Particle.
+	- cpp_Controller	: An example of light color sequences coded in C language for Particle.
 	- html_Controller	: An example of htlm code to control Particle.
 
 First commit of my program.
